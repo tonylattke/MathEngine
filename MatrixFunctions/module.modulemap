@@ -1,0 +1,4 @@
+module MatrixFunctions [system][extern_c] {
+    header "SimpleOperations.h"
+    export *
+}
